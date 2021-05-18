@@ -1,0 +1,3 @@
+include ':mylibrarycalculator'
+include ':app'
+rootProject.name = "p141b_Library"
